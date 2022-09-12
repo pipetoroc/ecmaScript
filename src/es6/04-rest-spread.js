@@ -1,11 +1,10 @@
-//Dostructuracion
+//Destructuracion
 
 //Arrays
 //Se puede destructurar, asignando los objetos a una variable, aveces puede ser confuso seleccionarlos desde el array
 let fruits = ['Apple', 'Banana'];
 let [a, b] = fruits;
 console.log(a, fruits[1]);
-
 
 //Objetos: se asigna a una variable y se especifica de donde lo trae
 let user = {username: 'Felipe', age: 30};
